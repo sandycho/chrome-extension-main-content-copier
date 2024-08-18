@@ -5,9 +5,11 @@
 Main Content Copier is a Chrome extension that allows users to easily copy the content within the `<main>` tag of any webpage with a simple right-click. Perfect for researchers, writers, and anyone who frequently needs to extract main content from web pages.
 
 <img width="649" alt="Screenshot 2024-08-18 at 14 58 57" src="https://github.com/user-attachments/assets/ee82d7c5-1e8d-413a-be7e-61854e25264b">
+<br />
 *Successful copy operation with green notification*
 
 <img width="661" alt="Screenshot 2024-08-18 at 14 58 14" src="https://github.com/user-attachments/assets/49c2c69e-102a-4cc0-8c75-2150c1ed0123">
+<br />
 *Error handling with red notification*
 
 ## Features
