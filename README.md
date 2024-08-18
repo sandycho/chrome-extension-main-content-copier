@@ -156,3 +156,29 @@ function helloWorld() {
 </body>
 </html>
 ```
+
+Save this as test-cases.html and open it in Chrome to test the extension thoroughly.
+
+## Future Improvements
+- Add options to customize notification appearance
+- Implement keyboard shortcuts for quicker access
+- Add support for copying content from other specific HTML tags
+- Create a options page to allow users to customize the extension's behavior
+
+## Contributing
+Contributions are welcome! If you have ideas for improvements or encounter any issues, please feel free to:
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+## Reporting Issues
+If you encounter any problems or have suggestions, please contact the developer on LinkedIn.
+
+## License
+This project is licensed under the GNU General Public License (GPL) - see the LICENSE file for details.
+
+## Acknowledgments
+Thanks to all the open-source projects that inspired this extension
+Special thanks to the Chrome Extensions documentation for guidance
